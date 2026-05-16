@@ -1,4 +1,4 @@
-# 
+# smart sandwich attack bot | slippage-control + new-token-detection offers the most advanced sandwich attack bot, with slippage-control and new-token-detection. Ideal for
 
 
 
